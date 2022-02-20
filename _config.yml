@@ -1,4 +1,9 @@
-title: 'StructureScience'
+title: 'Structured Science'
 description: 'Tools, templates, tips & tricks for organized science.'
 
 remote_theme: hydecorp/hydejack
+
+author:
+  social:
+    github: StructuredScience
+    twitter: TomDonoghue
