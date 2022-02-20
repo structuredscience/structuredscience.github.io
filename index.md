@@ -3,48 +3,27 @@ title: StructuredScience
 layout: page
 ---
 
-OpenLists is a collection of lists that curates open resources and materials in the areas of science and computation.
+StructuredScience is a collection of templates and resources for organization scientific projects.
 
-This collection is maintained by 
-[Tom Donoghue](https://tomdonoghue.github.io/), 
-and managed through the 
-[Github organization](https://github.com/openlists/).
+## Usage
 
-## List of OpenLists
+As of right now, these templates and repositories are posted here for me to access, version control, and share to collaborators various templates that I use in my work.
 
-The collection of OpenLists includes:
+They are all somewhat working-projects, but feel free to use them as you wish, and/or share other template resources you find useful.
 
-- [Python Resources](https://github.com/openlists/PythonResources)
-- [Git Resources](https://github.com/openlists/GitResources)
-- [Digital Signal Processing Resources](https://github.com/openlists/DSPResources)
-- [Open Electrophysiological Data](https://github.com/openlists/ElectrophysiologyData)
-- [Open Electrophysiological Software](https://github.com/openlists/ElectrophysiologySoftware)
-- [Spike Resources](https://github.com/openlists/SpikeResources/)
-- [Open Task Software & Resources](https://github.com/openlists/OpenTasks)
-- [NeuroOntologies](https://github.com/openlists/NeuroOntologies)
-- [Other Lists](https://github.com/openlists/OtherLists)
+## Templates
 
-## Overview
+Templates and repositories on this organization include:
 
-OpenLists is a collection of resources for learning and doing certain tasks, and/or finding available tools, data, and resources. The goal of these collections is to make it easier to find and navigate through available materials. 
+- A repository template for [generic projects](https://github.com/structuredscience/ProjectTemplate)
+- A repository template for [EEG projects](https://github.com/structuredscience/EEGTemplate)
+- Template files for [behavioural tasks](https://github.com/structuredscience/TaskTemplate)
+- A template layout for [writing papers](https://github.com/structuredscience/PaperTemplate)
+- A template and collection of resources for [developing modules](https://github.com/structuredscience/ModuleTemplate)
 
-The 'Open' part of 'OpenLists' means both that these lists are openly available, and that all referenced materials should be open-access and/or open-source, and (where applicable) should have permissive licenses that allow for re-use.
+## Other Resources
 
-Note that being included in an OpenList collection is not an endorsement. Although listed resources are selected for being hopefully useful, there is no systematic evaluation or validation of each listed resource.
+The following is an adhoc collection of other resources for template and related guides:
 
-## Scope
-
-The scope of 'OpenLists' is broadly science & computation, with a focus on open-science and open-access materials and approaches. Some of the materials are more specifically related to cognitive and computational neuroscience, with a focus on electrophysiology. 
-
-## Contributing
-
-'OpenLists' welcomes contributions and suggestions from the community!
-
-If you would like to suggest a new resource, please open an issue on Github on the relevant repository, and/or directly open a pull request with the suggested update. 
-
-If you find an issue with a listed repository, please open an issue, and we can edit or remove the listing. 
-
-We are also open to adding new lists of materials, or linking to existing collections. For that, please open an issue on the
-[overview repository](https://github.com/openlists/Overview).
-
-Note that to interact with the OpenLists organization you must follow the [Code of Conduct](https://github.com/openlists/Overview/blob/main/CODE_OF_CONDUCT.md).
+- The [openlists](https://github.com/openlists) collection of openly available resources
+- The [Turing Way](https://github.com/alan-turing-institute/the-turing-way) guide for data science projects
